@@ -73,3 +73,4 @@ end
 
 lspconfig.solidity_analyzer_lsp.setup{}
 ```
+
